@@ -12,4 +12,4 @@ Student record system made in C which uses file handling to store, update, delet
 6. Exit
 
 
-phone number and gpa validation included
+srn, phone number, and gpa validation included
